@@ -1,0 +1,6 @@
+{
+  "name": "OceanScan — Multi-Chain Memecoin Tracker & DEX Scanner",
+  "description": "Professional multi-chain memecoin tracker and DEX scanner for Solana, Base, and BSC with real-time pair discovery, verified holder analytics, historical charts, and transparent risk indicators.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
